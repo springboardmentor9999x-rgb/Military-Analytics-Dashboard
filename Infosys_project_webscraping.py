@@ -1,3 +1,8 @@
+# --------------------------------------------------
+# Contributor: Deepak Avachitkar
+# Project: Military Analytics Dashboard
+# --------------------------------------------------
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
