@@ -1,4 +1,9 @@
-# Military Analytics Dashboard – Data Collection
+## Military Analytics Dashboard – Data Collection
+
+## Contributor
+Deepak Avachitkar
+
+
 
 ## Overview
 This project focuses on collecting and preparing global military and defense-related data
