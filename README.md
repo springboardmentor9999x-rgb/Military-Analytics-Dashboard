@@ -1,7 +1,7 @@
 ## Military Analytics Dashboard – Data Collection
 
 ## Contributor
-Deepak Avachitkar
+# Deepak Avachitkar
 
 
 
