@@ -1,4 +1,3 @@
-<img width="819" height="281" alt="image" src="https://github.com/user-attachments/assets/068ddca3-77ec-4cd3-97a4-fc35dde38558" /># 🪖 Unified Military Analytics -- Week 1
 
 ## 📌 Project Overview
 
