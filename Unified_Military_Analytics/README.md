@@ -103,6 +103,3 @@ OutPut:
 
 ------------------------------------------------------------------------
 
-## 🧑‍🎓 Notes
-
-This project is beginner-friendly and suitable for academic evaluation.
