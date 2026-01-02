@@ -83,8 +83,7 @@ for url in links:
 
 # STEP 4: Save output
 data.to_csv("../data/military_metrics_week1.csv", index=False)
-
-print("\n✅ Week 1 task completed")
 print("Countries:", len(data))
 print("Metrics:", len(data.columns) - 2)
 print(data.head())
+
