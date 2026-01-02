@@ -1,4 +1,4 @@
-# 🪖 Unified Military Analytics -- Week 1
+<img width="819" height="281" alt="image" src="https://github.com/user-attachments/assets/068ddca3-77ec-4cd3-97a4-fc35dde38558" /># 🪖 Unified Military Analytics -- Week 1
 
 ## 📌 Project Overview
 
@@ -15,9 +15,13 @@ All collected data is merged **country-wise** into a single CSV file.
 
 ## 📂 Project Folder Structure
 
-Unified_Military_Analytics/ │ ├── scripts/ │ └──
-scrape_military_metrics.py │ ├── data/ │ ├── links_for_military_data.txt
-│ └── military_metrics_week1.csv │ └── README.md
+Unified_Military_Analytics/ 
+│ ├── scripts/ 
+│ └──scrape_military_metrics.py 
+│ ├── data/ 
+│ ├── links_for_military_data.txt
+│ └── military_metrics_week1.csv
+| └── README.md
 
 ------------------------------------------------------------------------
 
@@ -78,8 +82,9 @@ The output CSV is ready for: - Analysis - Dashboards - Comparisons
 
 ## 📸 Screenshots (Add in GitHub)
 
-Add screenshots for: - Folder structure - links file - Script
-execution - CSV output
+OutPut:
+<img width="819" height="281" alt="image" src="https://github.com/user-attachments/assets/caded279-bffd-4112-a2de-0f72ddb90dfa" />
+
 
 ------------------------------------------------------------------------
 
