@@ -16,12 +16,19 @@ All collected data is merged **country-wise** into a single CSV file.
 ## 📂 Project Folder Structure
 
 Unified_Military_Analytics/ 
+
 │ ├── scripts/ 
+
 │ └──scrape_military_metrics.py 
+
 │ ├── data/ 
+
 │ ├── links_for_military_data.txt
+
 │ └── military_metrics_week1.csv
+
 | └── README.md
+
 
 ------------------------------------------------------------------------
 
@@ -35,7 +42,9 @@ GlobalFirepower.com.
 
 Example:
 https://www.globalfirepower.com/total-population-by-country.php\
+
 https://www.globalfirepower.com/available-military-manpower.php\
+
 https://www.globalfirepower.com/aircraft-total.php
 
 ------------------------------------------------------------------------
