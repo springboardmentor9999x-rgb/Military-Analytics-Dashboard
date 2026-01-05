@@ -6,7 +6,7 @@ Web Scraping | Data Analytics Project
 
 The Unified Military Analytics & Comparison Dashboard is a data-driven analytics project focused on collecting, processing, and analyzing global military information from GlobalFirepower.com.
 
-The project converts raw and unstructured web data into a clean, well-structured dataset that can be directly used for analytics, visualization, and strategic military comparisons.
+The project converts raw and unstructured web data into a clean, well-structured dataset that can be used for analytics, visualization, and strategic military comparisons.
 
 🎯 Project Objectives
 
@@ -14,11 +14,8 @@ The project converts raw and unstructured web data into a clean, well-structured
 
 🧹 Clean, normalize, and standardize scraped data
 
-🔄 Merge multiple datasets into a unified structure
-
 📊 Prepare datasets for analytics and dashboard visualization
 
-⚙️ Automate the end-to-end data extraction pipeline
 
 🧠 Project Scope
 
@@ -26,7 +23,6 @@ The project converts raw and unstructured web data into a clean, well-structured
 ✔ Manpower and personnel statistics
 ✔ Equipment and force classification metrics
 ✔ Structured CSV output for analysis
-✔ Scalable and reusable data pipeline
 
 🧰 Tech Stack & Tools
 Tool / Technology	Purpose
