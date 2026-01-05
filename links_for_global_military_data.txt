@@ -8,6 +8,7 @@ https://www.globalfirepower.com/active-reserve-military-manpower.php
 https://www.globalfirepower.com/manpower-paramilitary.php
 https://www.globalfirepower.com/capital-cities-by-total-population.php
 
+# EQUIPMENTS
 # AIR POWER
 https://www.globalfirepower.com/aircraft-total.php
 https://www.globalfirepower.com/aircraft-total-fighters.php
@@ -38,13 +39,14 @@ https://www.globalfirepower.com/navy-corvettes.php
 https://www.globalfirepower.com/navy-patrol-coastal-craft.php
 https://www.globalfirepower.com/navy-mine-warfare-craft.php
 
+
 # ECONOMY & FINANCE
 https://www.globalfirepower.com/defense-spending-budget.php
 https://www.globalfirepower.com/external-debt-by-country.php
 https://www.globalfirepower.com/purchasing-power-parity.php
 https://www.globalfirepower.com/reserves-of-foreign-exchange-and-gold.php
 
-# INFRASTRUCTURE
+# LOGISTICS
 https://www.globalfirepower.com/major-serviceable-airports-by-country.php
 https://www.globalfirepower.com/labor-force-by-country.php
 https://www.globalfirepower.com/major-ports-and-terminals.php
@@ -52,7 +54,7 @@ https://www.globalfirepower.com/merchant-marine-strength-by-country.php
 https://www.globalfirepower.com/roadway-coverage.php
 https://www.globalfirepower.com/railway-coverage.php
 
-# RESOURCES
+# NATURAL RESOURCES
 https://www.globalfirepower.com/oil-production-by-country.php
 https://www.globalfirepower.com/oil-consumption-by-country.php
 https://www.globalfirepower.com/proven-oil-reserves-by-country.php
@@ -68,3 +70,4 @@ https://www.globalfirepower.com/square-land-area.php
 https://www.globalfirepower.com/coastline-coverage.php
 https://www.globalfirepower.com/border-coverage.php
 https://www.globalfirepower.com/waterway-coverage.php
+
