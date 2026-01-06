@@ -1,11 +1,3 @@
-# ======================================================
-# Project: Unified Military Analytics & Comparison Dashboard
-# Description:
-# Scrapes global military metrics from GlobalFirepower.com
-# using metric URLs provided in a TXT file.
-# Output: global_military_raw_data.csv
-# ======================================================
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
