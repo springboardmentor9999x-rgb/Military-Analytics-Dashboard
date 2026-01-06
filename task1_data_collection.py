@@ -105,7 +105,7 @@ def main():
         metric_df = scrape_metric_page(url)
         df = df.merge(metric_df, on="Country", how="left")
 
-    # Basic numeric cleanup (still RAW for Task 1)
+    # Basic numeric cleanup 
     for col in df.columns[2:]:
         df[col] = (
             df[col]
