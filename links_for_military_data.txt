@@ -5,7 +5,6 @@ https://www.globalfirepower.com/manpower-reaching-military-age-annually.php
 https://www.globalfirepower.com/active-military-manpower.php 
 https://www.globalfirepower.com/active-reserve-military-manpower.php 
 https://www.globalfirepower.com/manpower-paramilitary.php 
-https://www.globalfirepower.com/capital-cities-by-total-population.php 
 https://www.globalfirepower.com/aircraft-total.php 
 https://www.globalfirepower.com/aircraft-total-fighters.php 
 https://www.globalfirepower.com/aircraft-total-attack-types.php 
@@ -52,4 +51,5 @@ https://www.globalfirepower.com/proven-coal-reserves-by-country.php
 https://www.globalfirepower.com/square-land-area.php 
 https://www.globalfirepower.com/coastline-coverage.php 
 https://www.globalfirepower.com/border-coverage.php 
+
 https://www.globalfirepower.com/waterway-coverage.php 
