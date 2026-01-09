@@ -41,3 +41,49 @@ The final output is a structured CSV file that can be directly used in tools lik
 
 ## Notes
 This repository focuses on data collection as part of the learning exercise. Further analysis and dashboard development will be handled in subsequent stages of the project.
+
+Data Cleaning and Preprocessing (Task 2)
+
+This module focuses on cleaning and preparing the raw military dataset collected during the web scraping stage.
+
+The raw dataset contained inconsistencies such as missing values, duplicate records, inconsistent column naming, and non-uniform data types, which needed to be resolved before analysis and visualization.
+
+Objectives
+
+Clean and standardize the raw military dataset
+
+Handle missing and invalid values
+
+Ensure consistent data types for numerical analysis
+
+Prepare an analytics-ready dataset
+
+Data Cleaning Steps
+
+Standardized column names to lowercase with underscores
+
+Handled missing values by imputing defaults where appropriate
+
+Removed duplicate country records
+
+Converted all numeric fields to proper data types
+
+Removed meaningless rows containing only zero values
+
+Tools & Technologies
+
+Python
+
+Pandas library
+
+Google Colab
+
+Files Description
+
+Task2_Military_Data_Cleaning.ipynb – Notebook containing the data cleaning and preprocessing steps
+
+Task2_Data_Cleaning.csv – Final cleaned dataset ready for analysis
+
+Output
+
+The cleaned dataset is structured, consistent, and suitable for exploratory data analysis, machine learning, and dashboard development using tools such as Power BI, Tableau, or Python-based visualization libraries.
