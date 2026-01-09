@@ -66,7 +66,7 @@ The raw dataset contained inconsistencies such as missing values, duplicate reco
 ### Tools Used
 - Python  
 - Pandas  
-- Jupyter Notebook  
+- Google Colab 
 
 ### Output
 The final cleaned dataset is saved as a CSV file and is ready for exploratory data analysis, machine learning models, and dashboard development.
