@@ -1,90 +1,98 @@
-🛡️ Unified Military Analytics & Comparison Dashboard
+# 🛡️ Unified Military Analytics & Comparison Dashboard
+### Web Scraping • Data Engineering • Analytics
 
- Web Scraping | Analytics Project
+The **Unified Military Analytics & Comparison Dashboard** is an end-to-end data extraction and analytics project built to gather, clean, and organize military strength information from **GlobalFirepower.com**. It converts unstructured web data into a structured and analysis-ready dataset, enabling comparisons between countries and powering dashboards or visualization tools.
 
-📌 Project Overview
+---
 
-The Unified Military Analytics & Comparison Dashboard is a data-driven project designed to collect, process, and analyze global military information from GlobalFirepower.com.
+## 📌 Project Overview
 
-This project transforms raw, unstructured web data into a clean, structured dataset that can be used for analytics, visualization, and strategic comparison.
+This project focuses on automating large-scale data collection and cleaning.  
+It extracts multiple military metrics such as manpower, aircraft, land forces, naval strength, and economic indicators.  
+After scraping, all metrics are merged into a single unified dataset, which is then exported as a clean CSV file.
 
-🎯 Project Objectives
+---
 
-📥 Collect military-related data from multiple web sources
+## 🎯 Key Objectives
 
-🧹 Clean and standardize raw scraped data
+- Collect military-related metrics from multiple online sources  
+- Clean and normalize raw HTML data  
+- Standardize formats and numeric values  
+- Merge all metric tables into one structured DataFrame  
+- Produce an analytics-ready CSV file  
+- Automate the entire scraping workflow  
 
-🔄 Merge multiple datasets into one unified structure
+---
 
-📊 Prepare data for analytics and dashboard visualization
+## 🧠 What This Project Includes
 
-⚙️ Automate the entire data extraction process
+✔ Country-level military strength  
+✔ Active, reserve, and total manpower  
+✔ Airpower, land systems, and naval assets  
+✔ Economic and geographic indicators  
+✔ Cleaned and normalized dataset  
+✔ Automated scraping pipeline  
 
-🧠 What This Project Covers
+---
 
-✔ Country-wise military data
-✔ Manpower & personnel strength
-✔ Equipment and force categories
-✔ Structured CSV output for analytics
-✔ Scalable data pipeline
+## 🧰 Technology Stack
 
-🧰 Tech Stack & Tools
+| Tool | Purpose |
+|------|---------|
+| Python | Core scripting logic |
+| Requests | Fetching HTML pages |
+| BeautifulSoup | Parsing and extracting data |
+| Pandas | Cleaning and merging datasets |
+| Git & GitHub | Version control |
+| VS Code | Development environment |
 
-| Tools / Technology| Purpose                       |
-| ----------------- | ------------------------------ |
-| Python            | Core programming language      |
-| Requests          | Fetching web data              |
-| BeautifulSoup     | Parsing HTML content           |
-| Pandas            | Data cleaning & transformation |
-| Git & GitHub      | Version control                |
-| VS Code           | Development environment        |
+---
 
-🔄 Workflow Overview
+## 🔄 Workflow Overview
 
-1.Collect URLs
+### **1️⃣ Collect URLs**
+All metric URLs from GlobalFirepower are stored in a text file.
 
-  Store all GlobalFirepower metric URLs in a text file.
+### **2️⃣ Scrape Data**
+Each page is fetched using `requests`, and relevant values are extracted using BeautifulSoup.
 
-2.Scrape Data
+### **3️⃣ Clean Data**
+Symbols, commas, and mixed text are removed.  
+All values are converted to clean numeric types.
 
-  Use Python + BeautifulSoup to extract data from each page.
+### **4️⃣ Merge DataFrames**
+All extracted metrics are joined together using the `Country` column as the unique key.
 
-3.Data Cleaning
+### **5️⃣ Export Final Output**
+A structured CSV file is generated containing all indicators.
 
-  Remove symbols, normalize values, and format fields.
+---
 
-4.Merge & Structure
+## 📊 Sample Output (Preview)
 
- Combine all metrics into a unified dataset.
+| Country | Rank | Active Personnel | Reserve | Equipment |
+|--------|------|------------------|---------|-----------|
+| India  | 4    | 1,455,550        | 1,155,000 | 4,000+ |
+| USA    | 1    | 1,390,000        | 850,000   | 5,000+ |
 
-5.Export Output
+*(Actual dataset contains dozens of additional metrics.)*
 
-  Save final data as a CSV file for analysis or visualization.
+---
 
-📊 Sample Output (Preview)
+## 🧠 Key Learnings
 
-| Country | Rank | Active Personnel | Reserve   | Equipment |
-| ------- | ---- | ---------------- | --------- | --------- |
-| India   | 4    | 1,455,550        | 1,155,000 | 4,000+    |
-| USA     | 1    | 1,390,000        | 850,000   | 5,000+    |
+- Real-world web scraping and HTML parsing  
+- Cleaning inconsistent and incomplete data  
+- Designing modular and reusable Python functions  
+- Using Git for version control and collaboration  
+- Understanding full data pipeline creation  
 
-🧠 Key Learnings
+---
 
--Web scraping with real-world HTML structures
+## 👤 Author
 
--Handling inconsistent and missing data
+**Sonu Gupta**  
+Web Scraping • Python Development • Data Analytics  
 
--Writing clean, reusable Python code
-
--Managing Git repositories professionally
-
--Understanding data pipelines from raw to structured
-
-👤 Author
-
-Rutuja Ghodake
-
-⭐ If you found this project helpful, feel free to star the repository!
-
-
+---
 
