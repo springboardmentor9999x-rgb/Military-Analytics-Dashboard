@@ -28,7 +28,7 @@ The script will read links from the text file and generate/overwrite military_ra
 
 📅 Roadmap
 
-[x] Milestone 1: Data Scraping & Raw Data Generation
+[✔️] Milestone 1: Data Scraping & Raw Data Generation
 
 [ ] Milestone 2: KPI Engineering (Rank Gaps, Assets per Capita)
 
