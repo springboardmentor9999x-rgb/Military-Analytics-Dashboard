@@ -1,0 +1,436 @@
+country,region,continent,alliance,year,kpi_name,kpi_value
+Afghanistan,,Asia,Non-NATO,2025,power_index_rank_gap,117.0
+Afghanistan,,Asia,Non-NATO,2025,assets_per_capita,5211.0
+Afghanistan,,Asia,Non-NATO,2025,budget_to_gdp_percent,1.4148323225469266
+Albania,,Europe,NATO,2025,power_index_rank_gap,77.0
+Albania,,Europe,NATO,2025,assets_per_capita,1911.0000122300537
+Albania,,Europe,NATO,2025,budget_to_gdp_percent,2.0663075848938917
+Algeria,North Africa,Africa,Non-NATO,2025,power_index_rank_gap,25.0
+Algeria,North Africa,Africa,Non-NATO,2025,assets_per_capita,28576.000004444682
+Algeria,North Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,9.282559112995205
+Angola,,Africa,Non-NATO,2025,power_index_rank_gap,55.0
+Angola,,Africa,Non-NATO,2025,assets_per_capita,6682.000001612814
+Angola,,Africa,Non-NATO,2025,budget_to_gdp_percent,0.7177328128140097
+Argentina,South America,South America,Non-NATO,2025,power_index_rank_gap,32.0
+Argentina,South America,South America,Non-NATO,2025,assets_per_capita,22477.00000144698
+Argentina,South America,South America,Non-NATO,2025,budget_to_gdp_percent,0.1430256806862473
+Armenia,,Asia,Non-NATO,2025,power_index_rank_gap,90.0
+Armenia,,Asia,Non-NATO,2025,assets_per_capita,1634.0
+Armenia,,Asia,Non-NATO,2025,budget_to_gdp_percent,6.549728234853724
+Australia,Oceania,Oceania,Non-NATO,2025,power_index_rank_gap,17.0
+Australia,Oceania,Oceania,Non-NATO,2025,assets_per_capita,16082.000002801791
+Australia,Oceania,Oceania,Non-NATO,2025,budget_to_gdp_percent,3.1701359278364962
+Austria,Western Europe,Europe,Non-NATO,2025,power_index_rank_gap,67.0
+Austria,Western Europe,Europe,Non-NATO,2025,assets_per_capita,7463.0
+Austria,Western Europe,Europe,Non-NATO,2025,budget_to_gdp_percent,1.0239052007522091
+Azerbaijan,,Asia,Non-NATO,2025,power_index_rank_gap,59.0
+Azerbaijan,,Asia,Non-NATO,2025,assets_per_capita,8943.00000591536
+Azerbaijan,,Asia,Non-NATO,2025,budget_to_gdp_percent,6.344576171115459
+Bahrain,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,80.0
+Bahrain,Middle East,Asia,Non-NATO,2025,assets_per_capita,3072.0000753085096
+Bahrain,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,3.3903821013727478
+Bangladesh,South Asia,Asia,Non-NATO,2025,power_index_rank_gap,34.0
+Bangladesh,South Asia,Asia,Non-NATO,2025,assets_per_capita,12664.00000117963
+Bangladesh,South Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,0.9505974276008222
+Belarus,,,Non-NATO,2025,power_index_rank_gap,69.0
+Belarus,,,Non-NATO,2025,assets_per_capita,7823.0
+Belarus,,,Non-NATO,2025,budget_to_gdp_percent,1.367666571067224
+Belgium,Western Europe,Europe,NATO,2025,power_index_rank_gap,60.0
+Belgium,Western Europe,Europe,NATO,2025,assets_per_capita,4714.000001502801
+Belgium,Western Europe,Europe,NATO,2025,budget_to_gdp_percent,1.5192812844948929
+Beliz,,North America,Non-NATO,2025,power_index_rank_gap,136.0
+Beliz,,North America,Non-NATO,2025,assets_per_capita,133.0000384810565
+Beliz,,North America,Non-NATO,2025,budget_to_gdp_percent,0.9220160118265769
+Benin,,Africa,Non-NATO,2025,power_index_rank_gap,143.0
+Benin,,Africa,Non-NATO,2025,assets_per_capita,113.00000027216342
+Benin,,Africa,Non-NATO,2025,budget_to_gdp_percent,0.45781143766112026
+Bhutan,,,Non-NATO,2025,power_index_rank_gap,144.0
+Bhutan,,,Non-NATO,2025,assets_per_capita,86.0
+Bhutan,,,Non-NATO,2025,budget_to_gdp_percent,0.4646690869051762
+Bolivia,,South America,Non-NATO,2025,power_index_rank_gap,79.0
+Bolivia,,South America,Non-NATO,2025,assets_per_capita,1114.000009502944
+Bolivia,,South America,Non-NATO,2025,budget_to_gdp_percent,1.0025267710069905
+Bosnia and Herzegovina,,Europe,Non-NATO,2025,power_index_rank_gap,131.0
+Bosnia and Herzegovina,,Europe,Non-NATO,2025,assets_per_capita,1244.0
+Bosnia and Herzegovina,,Europe,Non-NATO,2025,budget_to_gdp_percent,0.7307460235889959
+Botswana,,Africa,Non-NATO,2025,power_index_rank_gap,121.0
+Botswana,,Africa,Non-NATO,2025,assets_per_capita,1350.0
+Botswana,,Africa,Non-NATO,2025,budget_to_gdp_percent,2.291208845327009
+Brazil,South America,South America,Non-NATO,2025,power_index_rank_gap,10.0
+Brazil,South America,South America,Non-NATO,2025,assets_per_capita,23683.000000468073
+Brazil,South America,South America,Non-NATO,2025,budget_to_gdp_percent,0.9998369338524546
+Bulgaria,Eastern Europe,Europe,NATO,2025,power_index_rank_gap,61.0
+Bulgaria,Eastern Europe,Europe,NATO,2025,assets_per_capita,5093.000007814045
+Bulgaria,Eastern Europe,Europe,NATO,2025,budget_to_gdp_percent,1.2115681510838905
+Burkina Faso,,Africa,Non-NATO,2025,power_index_rank_gap,128.0
+Burkina Faso,,Africa,Non-NATO,2025,assets_per_capita,524.0
+Burkina Faso,,Africa,Non-NATO,2025,budget_to_gdp_percent,0.35148518714210547
+Cambodia,Southeast Asia,Asia,Non-NATO,2025,power_index_rank_gap,94.0
+Cambodia,Southeast Asia,Asia,Non-NATO,2025,assets_per_capita,4726.000002344162
+Cambodia,Southeast Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,1.8553417225753248
+Cameroon,,Africa,Non-NATO,2025,power_index_rank_gap,92.0
+Cameroon,,Africa,Non-NATO,2025,assets_per_capita,517.0000032939241
+Cameroon,,Africa,Non-NATO,2025,budget_to_gdp_percent,1.0412508506922689
+Canada,North America,North America,NATO,2025,power_index_rank_gap,27.0
+Canada,North America,North America,NATO,2025,assets_per_capita,22129.000002912762
+Canada,North America,North America,NATO,2025,budget_to_gdp_percent,1.827390222575119
+Central African Republic,,Africa,Non-NATO,2025,power_index_rank_gap,142.0
+Central African Republic,,Africa,Non-NATO,2025,assets_per_capita,234.0
+Central African Republic,,Africa,Non-NATO,2025,budget_to_gdp_percent,1.67145540939065
+Chad,,Africa,Non-NATO,2025,power_index_rank_gap,83.0
+Chad,,Africa,Non-NATO,2025,assets_per_capita,3456.0
+Chad,,Africa,Non-NATO,2025,budget_to_gdp_percent,1.9537554260929804
+Chile,South America,South America,Non-NATO,2025,power_index_rank_gap,46.0
+Chile,South America,South America,Non-NATO,2025,assets_per_capita,9744.000009751053
+Chile,South America,South America,Non-NATO,2025,budget_to_gdp_percent,1.4999192855760672
+China,East Asia,Asia,Non-NATO,2025,power_index_rank_gap,2.0
+China,East Asia,Asia,Non-NATO,2025,assets_per_capita,155126.0000008318
+China,East Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,1.423670519627119
+Colombia,South America,South America,Non-NATO,2025,power_index_rank_gap,45.0
+Colombia,South America,South America,Non-NATO,2025,assets_per_capita,4006.000009336869
+Colombia,South America,South America,Non-NATO,2025,budget_to_gdp_percent,2.5169634785862387
+Croatia,,Europe,NATO,2025,power_index_rank_gap,73.0
+Croatia,,Europe,NATO,2025,assets_per_capita,3002.000009879242
+Croatia,,Europe,NATO,2025,budget_to_gdp_percent,1.2647362974696037
+Cuba,,North America,Non-NATO,2025,power_index_rank_gap,66.0
+Cuba,,North America,Non-NATO,2025,assets_per_capita,7138.00000282691
+Cuba,,North America,Non-NATO,2025,budget_to_gdp_percent,4.2
+Czechia,,,NATO,2025,power_index_rank_gap,52.0
+Czechia,,,NATO,2025,assets_per_capita,6482.0
+Czechia,,,NATO,2025,budget_to_gdp_percent,1.94505402237449
+Democratic Republic of the Congo,,,Non-NATO,2025,power_index_rank_gap,65.0
+Democratic Republic of the Congo,,,Non-NATO,2025,assets_per_capita,1127.000000277289
+Democratic Republic of the Congo,,,Non-NATO,2025,budget_to_gdp_percent,0.4857073170731707
+Denmark,,Europe,NATO,2025,power_index_rank_gap,44.0
+Denmark,,Europe,NATO,2025,assets_per_capita,4017.000012388802
+Denmark,,Europe,NATO,2025,budget_to_gdp_percent,1.702013068951366
+Dominican Republic,,North America,Non-NATO,2025,power_index_rank_gap,123.0
+Dominican Republic,,North America,Non-NATO,2025,assets_per_capita,635.0000044379285
+Dominican Republic,,North America,Non-NATO,2025,budget_to_gdp_percent,0.6523860233085359
+Ecuador,,South America,Non-NATO,2025,power_index_rank_gap,64.0
+Ecuador,,South America,Non-NATO,2025,assets_per_capita,5466.000002457676
+Ecuador,,South America,Non-NATO,2025,budget_to_gdp_percent,1.9057385354144456
+Egypt,North Africa,Africa,Non-NATO,2025,power_index_rank_gap,18.0
+Egypt,North Africa,Africa,Non-NATO,2025,assets_per_capita,46687.00000232815
+Egypt,North Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,1.511439588688946
+El Salvador,,North America,Non-NATO,2025,power_index_rank_gap,127.0
+El Salvador,,North America,Non-NATO,2025,assets_per_capita,1972.0000036206184
+El Salvador,,North America,Non-NATO,2025,budget_to_gdp_percent,0.9461908058145689
+Eritrea,,Africa,Non-NATO,2025,power_index_rank_gap,119.0
+Eritrea,,Africa,Non-NATO,2025,assets_per_capita,1020.0000064628443
+Eritrea,,Africa,Non-NATO,2025,budget_to_gdp_percent,9.588370173924547
+Estonia,,Europe,NATO,2025,power_index_rank_gap,106.0
+Estonia,,Europe,NATO,2025,assets_per_capita,1690.0000134026811
+Estonia,,Europe,NATO,2025,budget_to_gdp_percent,3.3928721440457483
+Ethiopia,Sub-Saharan Africa,Africa,Non-NATO,2025,power_index_rank_gap,51.0
+Ethiopia,Sub-Saharan Africa,Africa,Non-NATO,2025,assets_per_capita,8006.0
+Ethiopia,Sub-Saharan Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,1.4008086191057108
+Finland,,Europe,Non-NATO,2025,power_index_rank_gap,47.0
+Finland,,Europe,Non-NATO,2025,assets_per_capita,12734.000051542598
+Finland,,Europe,Non-NATO,2025,budget_to_gdp_percent,2.2697455543392575
+France,Western Europe,Europe,NATO,2025,power_index_rank_gap,6.0
+France,Western Europe,Europe,NATO,2025,assets_per_capita,112123.00000293969
+France,Western Europe,Europe,NATO,2025,budget_to_gdp_percent,1.740262569839067
+Gabon,,Africa,Non-NATO,2025,power_index_rank_gap,132.0
+Gabon,,Africa,Non-NATO,2025,assets_per_capita,448.000003665831
+Gabon,,Africa,Non-NATO,2025,budget_to_gdp_percent,1.3151998010762442
+Georgia,,Asia,Non-NATO,2025,power_index_rank_gap,93.0
+Georgia,,Asia,Non-NATO,2025,assets_per_capita,3697.0000110182473
+Georgia,,Asia,Non-NATO,2025,budget_to_gdp_percent,1.449656073749591
+Germany,Western Europe,Europe,NATO,2025,power_index_rank_gap,13.0
+Germany,Western Europe,Europe,NATO,2025,assets_per_capita,84140.00000112935
+Germany,Western Europe,Europe,NATO,2025,budget_to_gdp_percent,1.067100887875876
+Ghana,Sub-Saharan Africa,Africa,Non-NATO,2025,power_index_rank_gap,109.0
+Ghana,Sub-Saharan Africa,Africa,Non-NATO,2025,assets_per_capita,1849.0000015900966
+Ghana,Sub-Saharan Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,0.3748111802731096
+Greece,,Europe,NATO,2025,power_index_rank_gap,29.0
+Greece,,Europe,NATO,2025,assets_per_capita,64488.00002494959
+Greece,,Europe,NATO,2025,budget_to_gdp_percent,1.8512115776467977
+Guatemala,,North America,Non-NATO,2025,power_index_rank_gap,102.0
+Guatemala,,North America,Non-NATO,2025,assets_per_capita,779.0000024650489
+Guatemala,,North America,Non-NATO,2025,budget_to_gdp_percent,0.3609863179872625
+Honduras,,North America,Non-NATO,2025,power_index_rank_gap,100.0
+Honduras,,North America,Non-NATO,2025,assets_per_capita,697.0000200436805
+Honduras,,North America,Non-NATO,2025,budget_to_gdp_percent,1.1151125282146692
+Hungary,Eastern Europe,Europe,NATO,2025,power_index_rank_gap,54.0
+Hungary,Eastern Europe,Europe,NATO,2025,assets_per_capita,8370.0
+Hungary,Eastern Europe,Europe,NATO,2025,budget_to_gdp_percent,2.0545724348009924
+Iceland,,Europe,NATO,2025,power_index_rank_gap,134.0
+Iceland,,Europe,NATO,2025,assets_per_capita,150.0
+Iceland,,Europe,NATO,2025,budget_to_gdp_percent,0.9394024816607761
+India,South Asia,Asia,Non-NATO,2025,power_index_rank_gap,3.0
+India,South Asia,Asia,Non-NATO,2025,assets_per_capita,158999.00000034986
+India,South Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,1.9182117803148837
+Indonesia,Southeast Asia,Asia,Non-NATO,2025,power_index_rank_gap,12.0
+Indonesia,Southeast Asia,Asia,Non-NATO,2025,assets_per_capita,21626.00000209545
+Indonesia,Southeast Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,0.7591491265905687
+Iran,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,15.0
+Iran,Middle East,Asia,Non-NATO,2025,assets_per_capita,70159.00000185547
+Iran,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,1.0369127516778522
+Iraq,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,42.0
+Iraq,Middle East,Asia,Non-NATO,2025,assets_per_capita,39314.00000228118
+Iraq,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,2.757051348022091
+Ireland,,Europe,Non-NATO,2025,power_index_rank_gap,96.0
+Ireland,,Europe,Non-NATO,2025,assets_per_capita,1734.0000030572503
+Ireland,,Europe,Non-NATO,2025,budget_to_gdp_percent,0.24624175178327243
+Israel,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,14.0
+Israel,Middle East,Asia,Non-NATO,2025,assets_per_capita,38067.0000127624
+Israel,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,5.644177142775492
+Italy,Western Europe,Europe,NATO,2025,power_index_rank_gap,9.0
+Italy,Western Europe,Europe,NATO,2025,assets_per_capita,74517.00000406792
+Italy,Western Europe,Europe,NATO,2025,budget_to_gdp_percent,1.2777618401955295
+Ivory Coast,,Africa,Non-NATO,2025,power_index_rank_gap,101.0
+Ivory Coast,,Africa,Non-NATO,2025,assets_per_capita,682.0000002001217
+Ivory Coast,,Africa,Non-NATO,2025,budget_to_gdp_percent,0.7686562871427721
+Japan,East Asia,Asia,Non-NATO,2025,power_index_rank_gap,7.0
+Japan,East Asia,Asia,Non-NATO,2025,assets_per_capita,34408.00000213471
+Japan,East Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,0.9087484259982318
+Jordan,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,74.0
+Jordan,Middle East,Asia,Non-NATO,2025,assets_per_capita,18436.000004832636
+Jordan,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,4.685834515817972
+Kazakhstan,,Asia,Non-NATO,2025,power_index_rank_gap,56.0
+Kazakhstan,,Asia,Non-NATO,2025,assets_per_capita,8478.000002517274
+Kazakhstan,,Asia,Non-NATO,2025,budget_to_gdp_percent,0.7028605975029576
+Kenya,Sub-Saharan Africa,Africa,Non-NATO,2025,power_index_rank_gap,82.0
+Kenya,Sub-Saharan Africa,Africa,Non-NATO,2025,assets_per_capita,4525.000000515053
+Kenya,Sub-Saharan Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,1.0864123757392945
+Kosovo,,Europe,Non-NATO,2025,power_index_rank_gap,140.0
+Kosovo,,Europe,Non-NATO,2025,assets_per_capita,737.0
+Kosovo,,Europe,Non-NATO,2025,budget_to_gdp_percent,2.328386305783629
+Kuwait,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,78.0
+Kuwait,Middle East,Asia,Non-NATO,2025,assets_per_capita,6131.000072968163
+Kuwait,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,3.7874236964746983
+Kyrgyzstan,,Asia,Non-NATO,2025,power_index_rank_gap,104.0
+Kyrgyzstan,,Asia,Non-NATO,2025,assets_per_capita,3077.0
+Kyrgyzstan,,Asia,Non-NATO,2025,budget_to_gdp_percent,1.269005038258957
+Laos,Southeast Asia,Asia,Non-NATO,2025,power_index_rank_gap,105.0
+Laos,Southeast Asia,Asia,Non-NATO,2025,assets_per_capita,4660.000009052555
+Laos,Southeast Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,0.818036554720889
+Latvia,,Europe,NATO,2025,power_index_rank_gap,98.0
+Latvia,,Europe,NATO,2025,assets_per_capita,1855.000019430994
+Latvia,,Europe,NATO,2025,budget_to_gdp_percent,2.6050576226773825
+Lebanon,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,114.0
+Lebanon,Middle East,Asia,Non-NATO,2025,assets_per_capita,5087.000023301411
+Lebanon,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,1.3993243480627058
+Liberia,,Africa,Non-NATO,2025,power_index_rank_gap,137.0
+Liberia,,Africa,Non-NATO,2025,assets_per_capita,300.00000147133227
+Liberia,,Africa,Non-NATO,2025,budget_to_gdp_percent,7.632915516995384
+Libya,North Africa,Africa,Non-NATO,2025,power_index_rank_gap,75.0
+Libya,North Africa,Africa,Non-NATO,2025,assets_per_capita,2030.00000108677
+Libya,North Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,3.3066446719289577
+Lithuania,,Europe,NATO,2025,power_index_rank_gap,87.0
+Lithuania,,Europe,NATO,2025,assets_per_capita,1326.0000095122643
+Lithuania,,Europe,NATO,2025,budget_to_gdp_percent,2.814801557372481
+Luxembourg,,Europe,NATO,2025,power_index_rank_gap,116.0
+Luxembourg,,Europe,NATO,2025,assets_per_capita,183.0
+Luxembourg,,Europe,NATO,2025,budget_to_gdp_percent,0.7784027423877664
+Madagascar,,Africa,Non-NATO,2025,power_index_rank_gap,129.0
+Madagascar,,Africa,Non-NATO,2025,assets_per_capita,178.00000033952728
+Madagascar,,Africa,Non-NATO,2025,budget_to_gdp_percent,0.6441261180891933
+Malaysia,Southeast Asia,Asia,Non-NATO,2025,power_index_rank_gap,41.0
+Malaysia,Southeast Asia,Asia,Non-NATO,2025,assets_per_capita,13885.000005352264
+Malaysia,Southeast Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,1.1368292265262734
+Mali,,Africa,Non-NATO,2025,power_index_rank_gap,103.0
+Mali,,Africa,Non-NATO,2025,assets_per_capita,633.0
+Mali,,Africa,Non-NATO,2025,budget_to_gdp_percent,2.427289177902693
+Mauritania,,Africa,Non-NATO,2025,power_index_rank_gap,122.0
+Mauritania,,Africa,Non-NATO,2025,assets_per_capita,752.0000027726177
+Mauritania,,Africa,Non-NATO,2025,budget_to_gdp_percent,2.3950211385180356
+Mexico,North America,North America,Non-NATO,2025,power_index_rank_gap,31.0
+Mexico,North America,North America,Non-NATO,2025,assets_per_capita,20161.00000241701
+Mexico,North America,North America,Non-NATO,2025,budget_to_gdp_percent,0.40940210989776477
+Moldova,,Europe,Non-NATO,2025,power_index_rank_gap,133.0
+Moldova,,Europe,Non-NATO,2025,assets_per_capita,570.0
+Moldova,,Europe,Non-NATO,2025,budget_to_gdp_percent,9.395428435929029
+Mongolia,,Asia,Non-NATO,2025,power_index_rank_gap,97.0
+Mongolia,,Asia,Non-NATO,2025,assets_per_capita,3487.0
+Mongolia,,Asia,Non-NATO,2025,budget_to_gdp_percent,0.6938986836051599
+Montenegro,,Europe,Non-NATO,2025,power_index_rank_gap,126.0
+Montenegro,,Europe,Non-NATO,2025,assets_per_capita,494.00002667337947
+Montenegro,,Europe,Non-NATO,2025,budget_to_gdp_percent,1.7908065472431562
+Morocco,North Africa,Africa,Non-NATO,2025,power_index_rank_gap,58.0
+Morocco,North Africa,Africa,Non-NATO,2025,assets_per_capita,9193.000005964546
+Morocco,North Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,8.343139944351172
+Mozambique,,Africa,Non-NATO,2025,power_index_rank_gap,88.0
+Mozambique,,Africa,Non-NATO,2025,assets_per_capita,976.0000019789538
+Mozambique,,Africa,Non-NATO,2025,budget_to_gdp_percent,1.8131185391718714
+Myanmar,,,Non-NATO,2025,power_index_rank_gap,36.0
+Myanmar,,,Non-NATO,2025,assets_per_capita,6952.000006814175
+Myanmar,,,Non-NATO,2025,budget_to_gdp_percent,3.731356806516157
+Namibia,,Africa,Non-NATO,2025,power_index_rank_gap,115.0
+Namibia,,Africa,Non-NATO,2025,assets_per_capita,2157.0000103436223
+Namibia,,Africa,Non-NATO,2025,budget_to_gdp_percent,2.7079336604566846
+Nepal,South Asia,Asia,Non-NATO,2025,power_index_rank_gap,125.0
+Nepal,South Asia,Asia,Non-NATO,2025,assets_per_capita,1137.0
+Nepal,South Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,0.95329599299421
+Netherlands,Western Europe,Europe,NATO,2025,power_index_rank_gap,35.0
+Netherlands,Western Europe,Europe,NATO,2025,assets_per_capita,2893.0000045576344
+Netherlands,Western Europe,Europe,NATO,2025,budget_to_gdp_percent,2.2223544686420893
+New Zealand,Oceania,Oceania,Non-NATO,2025,power_index_rank_gap,85.0
+New Zealand,Oceania,Oceania,Non-NATO,2025,assets_per_capita,2193.0000027125416
+New Zealand,Oceania,Oceania,Non-NATO,2025,budget_to_gdp_percent,1.1646124544936436
+Nicaragua,,North America,Non-NATO,2025,power_index_rank_gap,130.0
+Nicaragua,,North America,Non-NATO,2025,assets_per_capita,1975.0000068893753
+Nicaragua,,North America,Non-NATO,2025,budget_to_gdp_percent,0.4671477585381811
+Niger,,Africa,Non-NATO,2025,power_index_rank_gap,118.0
+Niger,,Africa,Non-NATO,2025,assets_per_capita,482.0
+Niger,,Africa,Non-NATO,2025,budget_to_gdp_percent,1.6924825186181227
+Nigeria,Sub-Saharan Africa,Africa,Non-NATO,2025,power_index_rank_gap,30.0
+Nigeria,Sub-Saharan Africa,Africa,Non-NATO,2025,assets_per_capita,9794.00000103486
+Nigeria,Sub-Saharan Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,0.4728981524889918
+North Korea,East Asia,Asia,Non-NATO,2025,power_index_rank_gap,33.0
+North Korea,East Asia,Asia,Non-NATO,2025,assets_per_capita,24193.000014525453
+North Korea,East Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,31.57333333333333
+North Macedonia,,,NATO,2025,power_index_rank_gap,111.0
+North Macedonia,,,NATO,2025,assets_per_capita,1298.0
+North Macedonia,,,NATO,2025,budget_to_gdp_percent,2.291346040921331
+Norway,,Europe,NATO,2025,power_index_rank_gap,37.0
+Norway,,Europe,NATO,2025,assets_per_capita,6693.000014882754
+Norway,,Europe,NATO,2025,budget_to_gdp_percent,1.6283813936099294
+Oman,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,81.0
+Oman,Middle East,Asia,Non-NATO,2025,assets_per_capita,4502.000009994895
+Oman,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,7.464534641463666
+Pakistan,South Asia,Asia,Non-NATO,2025,power_index_rank_gap,11.0
+Pakistan,South Asia,Asia,Non-NATO,2025,assets_per_capita,24171.000000867796
+Pakistan,South Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,2.037929519197942
+Panama,,North America,Non-NATO,2025,power_index_rank_gap,135.0
+Panama,,North America,Non-NATO,2025,assets_per_capita,300.0000127509904
+Panama,,North America,Non-NATO,2025,budget_to_gdp_percent,1.0600555143384118
+Paraguay,,South America,Non-NATO,2025,power_index_rank_gap,86.0
+Paraguay,,South America,Non-NATO,2025,assets_per_capita,1172.0000179460446
+Paraguay,,South America,Non-NATO,2025,budget_to_gdp_percent,39.57657371530006
+Peru,South America,South America,Non-NATO,2025,power_index_rank_gap,48.0
+Peru,South America,South America,Non-NATO,2025,assets_per_capita,7346.0000031594855
+Peru,South America,South America,Non-NATO,2025,budget_to_gdp_percent,1.182482786864553
+Philippines,Southeast Asia,Asia,Non-NATO,2025,power_index_rank_gap,40.0
+Philippines,Southeast Asia,Asia,Non-NATO,2025,assets_per_capita,12384.000001471122
+Philippines,Southeast Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,0.9488374914688781
+Poland,Eastern Europe,Europe,NATO,2025,power_index_rank_gap,20.0
+Poland,Eastern Europe,Europe,NATO,2025,assets_per_capita,24231.000002477656
+Poland,Eastern Europe,Europe,NATO,2025,budget_to_gdp_percent,5.306357100165272
+Portugal,Western Europe,Europe,NATO,2025,power_index_rank_gap,38.0
+Portugal,Western Europe,Europe,NATO,2025,assets_per_capita,11092.000020959187
+Portugal,Western Europe,Europe,NATO,2025,budget_to_gdp_percent,1.476995082948037
+Qatar,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,71.0
+Qatar,Middle East,Asia,Non-NATO,2025,assets_per_capita,5386.000087771268
+Qatar,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,4.00153849381455
+Republic of the Congo,,,Non-NATO,2025,power_index_rank_gap,120.0
+Republic of the Congo,,,Non-NATO,2025,assets_per_capita,725.0000006559889
+Republic of the Congo,,,Non-NATO,2025,budget_to_gdp_percent,1.9491106546505437
+Romania,Eastern Europe,Europe,NATO,2025,power_index_rank_gap,50.0
+Romania,Eastern Europe,Europe,NATO,2025,assets_per_capita,11962.000002093877
+Romania,Eastern Europe,Europe,NATO,2025,budget_to_gdp_percent,2.5355220232024687
+Russia,Eastern Europe,Europe,Non-NATO,2025,power_index_rank_gap,1.0
+Russia,Eastern Europe,Europe,Non-NATO,2025,assets_per_capita,150074.00000538272
+Russia,Eastern Europe,Europe,Non-NATO,2025,budget_to_gdp_percent,5.294117647058823
+Saudi Arabia,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,23.0
+Saudi Arabia,Middle East,Asia,Non-NATO,2025,assets_per_capita,21264.000001641838
+Saudi Arabia,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,6.029982790835646
+Senegal,,Africa,Non-NATO,2025,power_index_rank_gap,124.0
+Senegal,,Africa,Non-NATO,2025,assets_per_capita,1800.0000004244591
+Senegal,,Africa,Non-NATO,2025,budget_to_gdp_percent,1.4177919943804953
+Serbia,Eastern Europe,Europe,Non-NATO,2025,power_index_rank_gap,62.0
+Serbia,Eastern Europe,Europe,Non-NATO,2025,assets_per_capita,4205.00000481043
+Serbia,Eastern Europe,Europe,Non-NATO,2025,budget_to_gdp_percent,2.538865393219746
+Sierra Leone,,,Non-NATO,2025,power_index_rank_gap,139.0
+Sierra Leone,,,Non-NATO,2025,assets_per_capita,151.00000153491118
+Sierra Leone,,,Non-NATO,2025,budget_to_gdp_percent,2.974185169156606
+Singapore,,,Non-NATO,2025,power_index_rank_gap,28.0
+Singapore,,,Non-NATO,2025,assets_per_capita,9487.00001393391
+Singapore,,,Non-NATO,2025,budget_to_gdp_percent,2.740293376277161
+Slovakia,,Europe,NATO,2025,power_index_rank_gap,70.0
+Slovakia,,Europe,NATO,2025,assets_per_capita,3169.0
+Slovakia,,Europe,NATO,2025,budget_to_gdp_percent,1.8845687452504398
+Slovenia,,Europe,NATO,2025,power_index_rank_gap,95.0
+Slovenia,,Europe,NATO,2025,assets_per_capita,1539.000001906675
+Slovenia,,Europe,NATO,2025,budget_to_gdp_percent,1.2153426181270794
+Somalia,,Africa,Non-NATO,2025,power_index_rank_gap,141.0
+Somalia,,Africa,Non-NATO,2025,assets_per_capita,682.0000015364201
+Somalia,,Africa,Non-NATO,2025,budget_to_gdp_percent,0.6404582397003745
+South Africa,Sub-Saharan Africa,Africa,Non-NATO,2025,power_index_rank_gap,39.0
+South Africa,Sub-Saharan Africa,Africa,Non-NATO,2025,assets_per_capita,19260.00000150556
+South Africa,Sub-Saharan Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,0.4947190089846992
+South Korea,East Asia,Asia,Non-NATO,2025,power_index_rank_gap,4.0
+South Korea,East Asia,Asia,Non-NATO,2025,assets_per_capita,67108.0000064322
+South Korea,East Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,2.4688224516740003
+South Sudan,,Africa,Non-NATO,2025,power_index_rank_gap,112.0
+South Sudan,,Africa,Non-NATO,2025,assets_per_capita,2000.0
+South Sudan,,Africa,Non-NATO,2025,budget_to_gdp_percent,0.9513488440935374
+Spain,Western Europe,Europe,NATO,2025,power_index_rank_gap,16.0
+Spain,Western Europe,Europe,NATO,2025,assets_per_capita,18691.000004103178
+Spain,Western Europe,Europe,NATO,2025,budget_to_gdp_percent,1.3558199187441504
+Sri Lanka,South Asia,Asia,Non-NATO,2025,power_index_rank_gap,68.0
+Sri Lanka,South Asia,Asia,Non-NATO,2025,assets_per_capita,3415.0000151938298
+Sri Lanka,South Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,1.2786573042119898
+Sudan,,Africa,Non-NATO,2025,power_index_rank_gap,72.0
+Sudan,,Africa,Non-NATO,2025,assets_per_capita,3576.000000237778
+Sudan,,Africa,Non-NATO,2025,budget_to_gdp_percent,0.5275084614494554
+Suriname,,South America,Non-NATO,2025,power_index_rank_gap,138.0
+Suriname,,South America,Non-NATO,2025,assets_per_capita,653.0000525698948
+Suriname,,South America,Non-NATO,2025,budget_to_gdp_percent,2.747773794379554
+Sweden,,Europe,Non-NATO,2025,power_index_rank_gap,26.0
+Sweden,,Europe,Non-NATO,2025,assets_per_capita,7074.00004778167
+Sweden,,Europe,Non-NATO,2025,budget_to_gdp_percent,2.057960620421707
+Switzerland,Western Europe,Europe,Non-NATO,2025,power_index_rank_gap,43.0
+Switzerland,Western Europe,Europe,Non-NATO,2025,assets_per_capita,7347.0
+Switzerland,Western Europe,Europe,Non-NATO,2025,budget_to_gdp_percent,2.6734953196132025
+Syria,,,Non-NATO,2025,power_index_rank_gap,63.0
+Syria,,,Non-NATO,2025,assets_per_capita,12361.000001969376
+Syria,,,Non-NATO,2025,budget_to_gdp_percent,1.2354573943934746
+Taiwan,East Asia,Asia,Non-NATO,2025,power_index_rank_gap,21.0
+Taiwan,East Asia,Asia,Non-NATO,2025,assets_per_capita,22930.000007840554
+Taiwan,East Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,2.1933333333333334
+Tajikistan,,Asia,Non-NATO,2025,power_index_rank_gap,107.0
+Tajikistan,,Asia,Non-NATO,2025,assets_per_capita,1316.0
+Tajikistan,,Asia,Non-NATO,2025,budget_to_gdp_percent,3.139833347892008
+Tanzania,,,Non-NATO,2025,power_index_rank_gap,91.0
+Tanzania,,,Non-NATO,2025,assets_per_capita,1173.0000003261089
+Tanzania,,,Non-NATO,2025,budget_to_gdp_percent,1.77999326825382
+Thailand,Southeast Asia,Asia,Non-NATO,2025,power_index_rank_gap,24.0
+Thailand,Southeast Asia,Asia,Non-NATO,2025,assets_per_capita,18652.00000516297
+Thailand,Southeast Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,1.0823779012632646
+Tunisia,North Africa,Africa,Non-NATO,2025,power_index_rank_gap,89.0
+Tunisia,North Africa,Africa,Non-NATO,2025,assets_per_capita,8242.00000904651
+Tunisia,North Africa,Africa,Non-NATO,2025,budget_to_gdp_percent,2.7273283901036907
+Turkiye,,Asia,Non-NATO,2025,power_index_rank_gap,8.0
+Turkiye,,Asia,Non-NATO,2025,assets_per_capita,66201.00000325727
+Turkiye,,Asia,Non-NATO,2025,budget_to_gdp_percent,3.4581103708010548
+Turkmenistan,,Asia,Non-NATO,2025,power_index_rank_gap,76.0
+Turkmenistan,,Asia,Non-NATO,2025,assets_per_capita,6211.000005570884
+Turkmenistan,,Asia,Non-NATO,2025,budget_to_gdp_percent,2.0978371907697473
+Uganda,,Africa,Non-NATO,2025,power_index_rank_gap,113.0
+Uganda,,Africa,Non-NATO,2025,assets_per_capita,4198.0
+Uganda,,Africa,Non-NATO,2025,budget_to_gdp_percent,1.8277965912526661
+Ukraine,Eastern Europe,Europe,Non-NATO,2025,power_index_rank_gap,19.0
+Ukraine,Eastern Europe,Europe,Non-NATO,2025,assets_per_capita,20973.00000350515
+Ukraine,Eastern Europe,Europe,Non-NATO,2025,budget_to_gdp_percent,26.881470194826573
+United Arab Emirates,Middle East,Asia,Non-NATO,2025,power_index_rank_gap,53.0
+United Arab Emirates,Middle East,Asia,Non-NATO,2025,assets_per_capita,9711.00002272679
+United Arab Emirates,Middle East,Asia,Non-NATO,2025,budget_to_gdp_percent,0.4005542018758017
+United Kingdom,Western Europe,Europe,NATO,2025,power_index_rank_gap,5.0
+United Kingdom,Western Europe,Europe,NATO,2025,assets_per_capita,39184.00000243942
+United Kingdom,Western Europe,Europe,NATO,2025,budget_to_gdp_percent,1.9397693709510813
+United States,North America,North America,NATO,2025,power_index_rank_gap,0.0
+United States,North America,North America,NATO,2025,assets_per_capita,410858.00000188616
+United States,North America,North America,NATO,2025,budget_to_gdp_percent,3.112939952085128
+Uruguay,,South America,Non-NATO,2025,power_index_rank_gap,99.0
+Uruguay,,South America,Non-NATO,2025,assets_per_capita,3186.000005254968
+Uruguay,,South America,Non-NATO,2025,budget_to_gdp_percent,0.9540335768906598
+Uzbekistan,,Asia,Non-NATO,2025,power_index_rank_gap,57.0
+Uzbekistan,,Asia,Non-NATO,2025,assets_per_capita,3738.0
+Uzbekistan,,Asia,Non-NATO,2025,budget_to_gdp_percent,2.438562035084277
+Venezuela,,South America,Non-NATO,2025,power_index_rank_gap,49.0
+Venezuela,,South America,Non-NATO,2025,assets_per_capita,9303.000001951981
+Venezuela,,South America,Non-NATO,2025,budget_to_gdp_percent,3.416542156707261
+Vietnam,Southeast Asia,Asia,Non-NATO,2025,power_index_rank_gap,22.0
+Vietnam,Southeast Asia,Asia,Non-NATO,2025,assets_per_capita,14067.000001768172
+Vietnam,Southeast Asia,Asia,Non-NATO,2025,budget_to_gdp_percent,1.8054621848739496
+Yemen,,,Non-NATO,2025,power_index_rank_gap,84.0
+Yemen,,,Non-NATO,2025,assets_per_capita,649.0000014623321
+Yemen,,,Non-NATO,2025,budget_to_gdp_percent,3.7506664765974147
+Zambia,,,Non-NATO,2025,power_index_rank_gap,108.0
+Zambia,,,Non-NATO,2025,assets_per_capita,566.0
+Zambia,,,Non-NATO,2025,budget_to_gdp_percent,1.3518136917252148
+Zimbabwe,,,Non-NATO,2025,power_index_rank_gap,110.0
+Zimbabwe,,,Non-NATO,2025,assets_per_capita,938.0
+Zimbabwe,,,Non-NATO,2025,budget_to_gdp_percent,1.0400571430801844
