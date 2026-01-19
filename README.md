@@ -2,6 +2,7 @@
 
 ## CONTRIBUTOR: PRIYANKA DUTTA
 
+
 ## Project Overview: 
 The Unified Military Analytics and Comparison Dashboard is a comprehensive defense intelligence platform designed to analyze and visualize the global military power of over 140 nations as of 2025. By integrating web scraping, data engineering, and interactive visualization, this project transforms raw open-source defense data from GlobalFirepower.com into actionable insights.
 Unlike traditional static reports, this suite offers cross-platform flexibility, supporting deployment across Tableau, Power BI, Streamlit, and Dash.
