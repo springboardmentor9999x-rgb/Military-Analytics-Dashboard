@@ -34,9 +34,9 @@ Website: https://www.globalfirepower.com
 
 [x] Milestone 1: Scraping Setup and Execution (140+ countries).
 
-[ ] Milestone 2: Data Cleaning and Structuring.
+[X] Milestone 2: Data Cleaning and Structuring.
 
-[ ] Milestone 3:  KPI Engineering and Tableau Prep, KPI Feature Engineering.
+[X] Milestone 3:  KPI Engineering and Tableau Prep, KPI Feature Engineering.
 
 [ ] Milestone 4:  Dashboard Planning and Prototyping.
 
