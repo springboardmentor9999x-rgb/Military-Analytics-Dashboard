@@ -6,7 +6,7 @@ This project is a full-stack data analytics solution designed to analyze global 
 The system scrapes live data for 145 countries from GlobalFirepower.com, engineers 50+ key metrics, and visualizes them through a 4-page interactive dashboard suite that allows users to compare nations, analyze alliances, and assess global military strength.
 
 ## 🔗 Live Dashboard
-**[👉 Click Here to View the Interactive Dashboard on Tableau Public](#)** *(Replace this # with your actual Tableau Public link)*
+**[👉 Click Here to View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/GlobalMilitaryPower-SHUBHAMKUMAR/AllianceSimulator?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -14,16 +14,16 @@ The system scrapes live data for 145 countries from GlobalFirepower.com, enginee
 
 ### 1. Global Command Center (Home)
 *A geospatial overview of global military spending and active personnel distributions.*
-![Global Quick Stats](https://github.com/user-attachments/assets/PLACEHOLDER_FOR_IMAGE_1)
+<img width="1919" height="977" alt="Screenshot 2026-02-02 004719" src="https://github.com/user-attachments/assets/05edce5a-ee9b-4437-834e-0e3bfb5c6cfd" />
 ### 2. Nation Inspector
 *Deep-dive profiling for individual countries with radar charts for balanced capability assessment.*
-![Nation Inspector](https://github.com/user-attachments/assets/PLACEHOLDER_FOR_IMAGE_2)
+<img width="1919" height="974" alt="Screenshot 2026-02-02 004739" src="https://github.com/user-attachments/assets/370ffd95-1b2f-4365-9289-3df14d3b59a9" />
 ### 3. Head-to-Head Comparison
 *Dynamic competitive analysis engine comparing any two nations across air, land, and naval assets.*
-![Head-to-Head](https://github.com/user-attachments/assets/PLACEHOLDER_FOR_IMAGE_3)
+<img width="1919" height="978" alt="Screenshot 2026-02-02 004807" src="https://github.com/user-attachments/assets/7f4e4669-c6e5-4a11-b42f-8d3ba48ce3a8" />
 ### 4. Alliance Simulator
 *A custom aggregation tool allowing users to build hypothetical coalitions (e.g., NATO vs. BRICS) and calculate combined strength.*
-![Alliance Simulator](https://github.com/user-attachments/assets/PLACEHOLDER_FOR_IMAGE_4)
+<img width="1919" height="973" alt="Screenshot 2026-02-02 004925" src="https://github.com/user-attachments/assets/1ecfff18-996b-4bed-b3c9-18e1a37680a1" />
 ---
 
 ## 🚀 Key Features
@@ -45,10 +45,10 @@ The system scrapes live data for 145 countries from GlobalFirepower.com, enginee
 * **Visualization:** Tableau Public (Parameters, Calculated Fields, Set Actions)
 
 ## 📅 Roadmap Status
-- [x] **Milestone 1:** Data Scraping & Raw Data Generation
-- [x] **Milestone 2:** KPI Engineering (Rank Gaps, Assets per Capita)
-- [x] **Milestone 3:** Dashboard Development (Quick Stats, Nation Overview)
-- [x] **Milestone 4:** Final Integration & Comparison Modules **(COMPLETED)**
+- [✔️] **Milestone 1:** Data Scraping & Raw Data Generation
+- [✔️] **Milestone 2:** KPI Engineering (Rank Gaps, Assets per Capita)
+- [✔️] **Milestone 3:** Dashboard Development (Quick Stats, Nation Overview)
+- [✔️] **Milestone 4:** Final Integration & Comparison Modules **(COMPLETED)**
 
 ## 👨‍💻 How to Run the Scraper
 1. **Install Dependencies:**
