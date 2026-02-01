@@ -30,8 +30,8 @@ The script will read links from the text file and generate/overwrite military_ra
 
 [✔️] Milestone 1: Data Scraping & Raw Data Generation
 
-[ ] Milestone 2: KPI Engineering (Rank Gaps, Assets per Capita)
+[✔️] Milestone 2: KPI Engineering (Rank Gaps, Assets per Capita)
 
-[ ] Milestone 3: Dashboard Development (Quick Stats, Nation Overview)
+[✔️] Milestone 3: Dashboard Development (Quick Stats, Nation Overview)
 
 [ ] Milestone 4: Final Integration & Comparison Modules
