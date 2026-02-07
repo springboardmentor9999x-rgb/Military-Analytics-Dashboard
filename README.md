@@ -12,18 +12,18 @@ The system scrapes live data for 145 countries from GlobalFirepower.com, enginee
 
 ## 📸 Dashboard Gallery
 
-### 1. Global Command Center (Home)
+### 1. Global Stats (Home)
 *A geospatial overview of global military spending and active personnel distributions.*
-<img width="1919" height="977" alt="Screenshot 2026-02-02 004719" src="https://github.com/user-attachments/assets/05edce5a-ee9b-4437-834e-0e3bfb5c6cfd" />
-### 2. Nation Inspector
+<img width="1919" height="976" alt="Quick Stats" src="https://github.com/user-attachments/assets/d65a6f58-9967-4743-8686-903fd7258d0c" />
+### 2. Nation Overview
 *Deep-dive profiling for individual countries with radar charts for balanced capability assessment.*
-<img width="1919" height="974" alt="Screenshot 2026-02-02 004739" src="https://github.com/user-attachments/assets/370ffd95-1b2f-4365-9289-3df14d3b59a9" />
-### 3. Head-to-Head Comparison
+<img width="1919" height="975" alt="Nation Overview" src="https://github.com/user-attachments/assets/d49320e9-8e41-4eab-ae1e-da43845ad534" />
+### 3. Compare Powers
 *Dynamic competitive analysis engine comparing any two nations across air, land, and naval assets.*
-<img width="1919" height="978" alt="Screenshot 2026-02-02 004807" src="https://github.com/user-attachments/assets/7f4e4669-c6e5-4a11-b42f-8d3ba48ce3a8" />
-### 4. Alliance Simulator
+<img width="1918" height="973" alt="Compare Powers" src="https://github.com/user-attachments/assets/76e7175b-d2b5-4776-8171-c2be2be8c4b3" />
+### 4. Coalition Builder
 *A custom aggregation tool allowing users to build hypothetical coalitions (e.g., NATO vs. BRICS) and calculate combined strength.*
-<img width="1919" height="973" alt="Screenshot 2026-02-02 004925" src="https://github.com/user-attachments/assets/1ecfff18-996b-4bed-b3c9-18e1a37680a1" />
+<img width="1919" height="977" alt="Coalition Builder" src="https://github.com/user-attachments/assets/4b297dc7-2c43-4cb6-9b55-34669fd20988" />
 ---
 
 ## 🚀 Key Features
