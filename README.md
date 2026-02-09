@@ -4,6 +4,8 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
+## 🔴 [CLICK HERE TO VIEW LIVE DASHBOARD](https://public.tableau.com/views/GlobalMilitaryPower-SHUBHAMKUMAR/AllianceSimulator?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 > **A high-fidelity military intelligence dashboard analyzing the defense capabilities of 140+ nations. Features a dynamic "War Room" simulator for modeling hypothetical coalition conflicts.**
 
 ---
