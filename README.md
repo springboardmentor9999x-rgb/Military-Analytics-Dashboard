@@ -1,4 +1,4 @@
-⚔️ Global Military Power Analysis & Alliance Simulator
+### ⚔️ Global Military Power Analysis & Alliance Simulator
 A high-fidelity military intelligence dashboard analyzing the defense capabilities of 140+ nations. Features a dynamic "War Room" simulator for modeling hypothetical coalition conflicts.
 
 📖 Project Overview
