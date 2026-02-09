@@ -1,6 +1,6 @@
 # ⚔️ Global Military Power Analysis & Alliance Simulator
 
-![Tableau](https://public.tableau.com/views/GlobalMilitaryPower-SHUBHAMKUMAR/AllianceSimulator?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Tableau](https://img.shields.io/badge/Tableau-2024.2-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
