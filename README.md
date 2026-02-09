@@ -8,6 +8,7 @@ The core innovation is Dashboard 4 (The Alliance Simulator), which allows users 
 
 📊 Dashboard Breakdown
 1. 🌍 Quick Stats Dashboard
+
 The Strategic View.
 
 <img width="1919" height="976" alt="Quick Stats" src="https://github.com/user-attachments/assets/c8af9602-964e-4664-adab-061f7c26bf61" />
@@ -17,6 +18,7 @@ Key Insight: Instantly visualize the "Power Index" distribution across continent
 Features: Filter by Region/Alliance to see how power is concentrated globally.
 
 2. 📈 Nation Overview Dashboard
+
 The Data Correlation Engine.
 
 <img width="1919" height="975" alt="Nation Overview" src="https://github.com/user-attachments/assets/28ca60f2-2fbc-4229-8df1-ec81d0ed855f" />
@@ -26,6 +28,7 @@ Key Insight: Analyzing the correlation between GDP vs. Defense Spending. Does mo
 Analysis: Outlier detection (identifying countries that punch above their weight class).
 
 3. ⚔️ Compare Powers Dashboard
+
 The Direct Comparator.
 
 <img width="1918" height="973" alt="Compare Powers" src="https://github.com/user-attachments/assets/9f361cd4-5ec5-4b0d-ad52-61bf94b21a34" />
@@ -35,6 +38,7 @@ Functionality: Select Any Two Countries to see a side-by-side breakdown of their
 Logic: Uses dynamic parameters to calculate the "Rank Gap" live.
 
 4. 🛡️ Coalition Builder Dashboard ("War Room")
+
 The Star Feature - A Sandbox Simulation.
 
 Functionality: A "What-If" scenario builder.
