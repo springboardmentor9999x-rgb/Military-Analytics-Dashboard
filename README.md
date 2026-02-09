@@ -9,7 +9,7 @@
 ---
 
 ## 📖 Project Overview
-This project goes beyond simple data visualization to build an interactive **Decision Support System (DSS)** for military analysis. Built in **Tableau**, it processes complex geopolitical data—defense budgets, manpower, airpower, and naval assets—to answer critical questions about global security.
+This project goes beyond simple data visualization to build an interactive **Decision Support System (DSS)** for military analysis. Built in **Tableau**, it processes complex geopolitical data-defense budgets, manpower, airpower, and naval assets-to answer critical questions about global security.
 
 The core innovation is **Dashboard 4 (The Alliance Simulator)**, which allows users to build custom "sandbox" coalitions (e.g., *NATO + Japan*) and test their combined strength against a specific rival nation in real-time.
 
