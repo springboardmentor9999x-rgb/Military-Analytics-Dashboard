@@ -22,7 +22,7 @@ The core innovation is **Dashboard 4 (The Alliance Simulator)**, which allows us
 ### 1. 🌍 Quick Stats Dashboard
 *The Strategic View.*
 * **Visuals:** 
-<img width="1919" height="976" alt="Quick Stats" src="https://github.com/user-attachments/assets/06f96719-fb96-4a5b-bb00-ae44edcd6cc0" />
+<img width="1919" height="964" alt="Quick Stats" src="https://github.com/user-attachments/assets/1af357d0-f279-4a76-be6e-0539a73305cc" />
 
 * **Key Insight:** Instantly visualize the "Power Index" distribution across continents.
 * **Features:** Filter by Region/Alliance to see how power is concentrated globally.
