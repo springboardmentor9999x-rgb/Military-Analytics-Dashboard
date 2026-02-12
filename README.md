@@ -39,11 +39,11 @@ Website: https://www.globalfirepower.com
 
 [X] Milestone 3:  KPI Engineering and Tableau Prep, KPI Feature Engineering.
 
-[ ] Milestone 4:  Dashboard Planning and Prototyping.
+[X] Milestone 4:  Dashboard Planning and Prototyping.
 
-[ ] Milestone 5:  Build Quick Stats and Nation Overview 
+[X] Milestone 5:  Build Quick Stats and Nation Overview 
 
-[ ] Milestone 6:  Build Compare Powers and Coalition Builder Dashboards 
+[X] Milestone 6:  Build Compare Powers and Coalition Builder Dashboards 
 
 [ ] Milestone 7: Final Review and Delivery, Testing, and Debugging 
 
