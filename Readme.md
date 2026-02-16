@@ -1,90 +1,190 @@
-🛡️ Unified Military Analytics & Comparison Dashboard
+# 🛡️ Unified Military Analytics & Comparison Dashboard
+### Web Scraping • Data Engineering • Power BI Analytics
 
- Web Scraping | Analytics Project
+The Unified Military Analytics & Comparison Dashboard is an end-to-end data analytics project that automates the collection, cleaning, transformation, and visualization of global military strength data.
 
-📌 Project Overview
+The project scrapes raw military data from GlobalFirepower.com, converts unstructured web data into a clean and standardized dataset using Python, and presents insights through an interactive Power BI dashboard. It enables country-level analysis, military power comparison, and coalition-based strength evaluation.
 
-The Unified Military Analytics & Comparison Dashboard is a data-driven project designed to collect, process, and analyze global military information from GlobalFirepower.com.
+---
 
-This project transforms raw, unstructured web data into a clean, structured dataset that can be used for analytics, visualization, and strategic comparison.
+## 📌 Project Overview
 
-🎯 Project Objectives
+This project is designed as a complete data pipeline and analytics solution.
 
-📥 Collect military-related data from multiple web sources
+- Automated web scraping for 145 countries
+- Cleaning and normalization of raw military data
+- KPI engineering and metric standardization
+- Interactive dashboards built using Power BI
 
-🧹 Clean and standardize raw scraped data
+The system allows users to move from raw web data to actionable strategic insights.
 
-🔄 Merge multiple datasets into one unified structure
+---
 
-📊 Prepare data for analytics and dashboard visualization
+## 🎯 Project Objectives
 
-⚙️ Automate the entire data extraction process
+- Automate large-scale military data collection
+- Clean and normalize inconsistent web data
+- Standardize numeric and categorical formats
+- Merge multiple metric tables into a unified dataset
+- Generate analytics-ready CSV and Excel files
+- Build interactive Power BI dashboards
+- Enable country comparison and coalition analysis
 
-🧠 What This Project Covers
+---
 
-✔ Country-wise military data
-✔ Manpower & personnel strength
-✔ Equipment and force categories
-✔ Structured CSV output for analytics
-✔ Scalable data pipeline
+## 🧠 What This Project Includes
 
-🧰 Tech Stack & Tools
+✔ Country-wise military strength data  
+✔ Active, reserve, and total military personnel  
+✔ Airpower, land forces, and naval assets  
+✔ Defense budgets and economic indicators  
+✔ Power Index and Assets per Capita metrics  
+✔ Cleaned and standardized datasets  
+✔ Fully interactive Power BI dashboards  
 
-| Tools / Technology| Purpose                       |
-| ----------------- | ------------------------------ |
-| Python            | Core programming language      |
-| Requests          | Fetching web data              |
-| BeautifulSoup     | Parsing HTML content           |
-| Pandas            | Data cleaning & transformation |
-| Git & GitHub      | Version control                |
-| VS Code           | Development environment        |
+---
 
-🔄 Workflow Overview
+## 📊 Power BI Dashboard Pages
 
-1.Collect URLs
+### 1️⃣ Quick Stats (Global Overview)
+- Global military ranking and power index
+- Total defense budget and military burden index
+- Top countries by total military assets
+- Alliance-wise defense budget distribution
+- Economic power vs military strength analysis
+  <img width="1394" height="810" alt="image" src="https://github.com/user-attachments/assets/25146c9d-bb81-48ff-b5a7-ba7c6c9f46c3" />
 
-  Store all GlobalFirepower metric URLs in a text file.
 
-2.Scrape Data
+---
 
-  Use Python + BeautifulSoup to extract data from each page.
+### 2️⃣ Nation Overview
+- Detailed country-level analysis
+- Power Index Score
+- Defense Budget (USD)
+- Total Military Personnel
+- Assets per Capita
+- Air, Land, and Naval power breakdown
+  <img width="1377" height="817" alt="image" src="https://github.com/user-attachments/assets/67cf352e-6e8b-4a2b-916d-ce7dc239ba3f" />
 
-3.Data Cleaning
 
-  Remove symbols, normalize values, and format fields.
+---
 
-4.Merge & Structure
+### 3️⃣ Compare Powers
+- Dynamic Country A vs Country B comparison
+- Power Index A vs Power Index B
+- Defense Budget A vs Defense Budget B
+- Visual military asset comparison
+- Real-time interactive slicers
+  <img width="1364" height="820" alt="image" src="https://github.com/user-attachments/assets/817e1a47-fb64-4739-a20d-bb5a9213be76" />
 
- Combine all metrics into a unified dataset.
 
-5.Export Output
+---
 
-  Save final data as a CSV file for analysis or visualization.
+### 4️⃣ Coalition Builder
+- Build custom military alliances
+- Aggregate defense budgets for selected countries
+- Calculate combined total military assets
+- Coalition-level military strength analysis
+  <img width="1347" height="814" alt="image" src="https://github.com/user-attachments/assets/1c8f6a23-1a98-4538-a76e-665a6121a4b2" />
 
-📊 Sample Output (Preview)
 
-| Country | Rank | Active Personnel | Reserve   | Equipment |
-| ------- | ---- | ---------------- | --------- | --------- |
-| India   | 4    | 1,455,550        | 1,155,000 | 4,000+    |
-| USA     | 1    | 1,390,000        | 850,000   | 5,000+    |
+---
 
-🧠 Key Learnings
+## 🔄 Data Pipeline & Workflow
 
--Web scraping with real-world HTML structures
+### 1️⃣ Collect URLs
+All metric URLs from GlobalFirepower are stored in a text file.
 
--Handling inconsistent and missing data
+### 2️⃣ Scrape Data
+Python scripts fetch HTML pages using requests and extract values using BeautifulSoup.
 
--Writing clean, reusable Python code
+### 3️⃣ Clean & Normalize Data
+- Remove commas, symbols, and mixed text
+- Convert values to numeric formats
+- Standardize country names and metrics
 
--Managing Git repositories professionally
+### 4️⃣ Merge DataFrames
+All extracted metrics are merged using the Country column as the primary key.
 
--Understanding data pipelines from raw to structured
+### 5️⃣ Export Final Output
+Clean datasets are exported as CSV and Excel files.
 
-👤 Author
+### 6️⃣ Power BI Integration
+Processed data is loaded into Power BI where KPIs, measures, and dashboards are created.
 
-Rutuja Ghodake
+---
 
-⭐ If you found this project helpful, feel free to star the repository!
+## 📂 Repository Structure
+├── All_links.txt
+├── Dashboard.pbix
+├── Global_military_data.csv
+├── global_military_data_collection.ipynb
+├── Unified_Military_Data.ipynb
+├── Unified_Military_Data_Analytics.ipynb
+├── military_final.xlsx
+├── military_kpi_output.xlsx
+├── Unified_Military_StandardizedData/
+└── README.md
 
+
+---
+
+## 🧰 Technology Stack
+
+**Data Collection & Engineering**
+- Python
+- Requests
+- BeautifulSoup
+- Pandas
+- NumPy
+
+**Analytics & Visualization**
+- Power BI
+- DAX
+- Power Query
+- Interactive slicers and measures
+
+**Tools**
+- Git & GitHub
+- VS Code
+
+---
+
+## 👨‍💻 How to Run the Project
+
+### 1️⃣ Install Dependencies
+
+### 2️⃣ Run the Scraper
+
+### 3️⃣ Open the Dashboard
+- Open Dashboard.pbix in Power BI Desktop
+- Refresh the dataset if required
+
+---
+
+## 🧠 Key Learnings
+
+- Real-world web scraping and HTML parsing
+- Cleaning and standardizing large datasets
+- Building complete data pipelines
+- KPI engineering and metric creation
+- Creating interactive Power BI dashboards
+
+---
+
+## ⚠️ Disclaimer
+This project is developed strictly for educational and analytical purposes. All data is sourced from publicly available information and does not represent official or classified military assessments.
+
+---
+
+## 👤 Author
+
+Sonu Gupta  
+Python • Web Scraping • Data Engineering • Power BI Analytics
+
+---
+
+## ⭐ Support
+If you find this project useful, feel free to star the repository or fork it for further improvements.
 
 
