@@ -59,16 +59,16 @@ Public military datasets suffer from:
 
 ## 🔹 Strategic KPI Framework
 
-* Coalition Strength Delta (%)
-* Budget Efficiency Ratio
-* Personnel-to-Capability Index
-* Domain Power Balance (Air/Land/Naval)
-* Force Projection Score
-* Alliance Readiness Multiplier
-* Strategic Burden Metric
-* Power Index Gap Analysis
-* Coalition vs Reference Comparison
-* Dynamic SUMX aggregation measures
+* Assets per Capita
+* Defense Budget to GDP Ratio
+* Personnel Density
+* Defense Budget per Soldier
+* Air Power Ratio
+* Armor Intensity Index
+* Naval Strength per Coastline
+* Military Burden Index
+* Power Rank Gap
+* Coalition Strength Index (Dynamic KPI)
 
 ## 🔹 Coalition Intelligence Engine
 
@@ -103,10 +103,10 @@ Public military datasets suffer from:
 
 # 📊 Dashboard Showcase
 
-## 🟡 Executive Summary
+## 🔵 Executive Summary
 
 <p align="center">
-  <img src="assets/Executive_Summary.png" width="800"/>
+  <img src="DASHBOARD DEVELOPMENT/IMAGEFILE/QUICKSTATS.png" width="800"/>
 </p>
 
 Key metrics:
@@ -118,7 +118,7 @@ Key metrics:
 ## 🔵 Country Intelligence
 
 <p align="center">
-  <img src="assets/Country_Intelligence.png" width="800"/>
+  <img src="DASHBOARD DEVELOPMENT/IMAGEFILE/NATIONOVERVIEW.png" width="800"/>
 </p>
 
 Detailed views:
@@ -127,10 +127,10 @@ Detailed views:
 * Domain strength profiles
 * Geographic capability mapping
 
-## 🟢 Power Comparison
+## 🔴 Power Comparison
 
 <p align="center">
-  <img src="assets/Power_Comparison.png" width="800"/>
+  <img src="DASHBOARD DEVELOPMENT/IMAGEFILE/COMPAREPOWER.png" width="800"/>
 </p>
 
 Strategic analysis:
@@ -142,7 +142,7 @@ Strategic analysis:
 ## 🔴 Alliance Simulator
 
 <p align="center">
-  <img src="assets/Alliance_Simulator.png" width="800"/>
+  <img src="DASHBOARD DEVELOPMENT/IMAGEFILE/COLITIONBUILDER.png" width="800"/>
 </p>
 
 Live capabilities:
@@ -157,7 +157,7 @@ Live capabilities:
 
 Dashboard reveals critical insights:
 
-* Budget size ≠ strategic effectiveness
+* Budget size ≠ and strategic effectiveness
 * Regional alliances shift power balances
 * Naval coalitions challenge air dominance
 * Personnel efficiency varies 5x globally
@@ -167,58 +167,111 @@ Dashboard reveals critical insights:
 
 ---
 
-# 🧠 Technical Architecture
+# 🔹 Technical Architecture
 
-## ⚙ Coalition-Aware Data Model
+## ⚙ Coalition-Aware Data ModelCoalition Measures Slicer-driven, fully dynamic aggregation.
 
-DimGeography → FactMilitary ← MilitaryBranches
-↓              ↓              ↓
-DimOrganization  DimPerformance  Coalition Measures Slicer-driven, fully dynamic aggregation.
+```
+DimGeography → FactMilitary ← DimPerformance 
+                ↑       ↓          ↓
+    DimOrganization  → MilitaryBranches
+```
 
+<p align="center">
+  <img src="DASHBOARD DEVELOPMENT/IMAGEFILE/Star Schema.png" width="800"/>
+</p>
 
 
 **Core DAX Pattern** (15+ measures):
 ```dax
-Coalition Naval Power = 
+Coalition Naval Combat Power = 
 SUMX(
-    VALUES(DimGeography[Country]),
-    CALCULATE(SUM(FactMilitary[total_naval_fleet]), Year=2025)
+    VALUES(Dimgeography[country]),
+CALCULATE(
+        (SUM(factmilitary[aircraft_carriers]) * 5) +           // Highest weight
+        (SUM(factmilitary[helicopter_carriers]) * 3) +         // High weight  
+        (SUM(factmilitary[submarines]) * 4) +                  // High weight
+        (SUM(factmilitary[destroyers]) * 3) +                  // High weight
+        (SUM(factmilitary[frigates]) * 2) +                    // Medium weight
+        SUM(factmilitary[corvettes]),                          // Base weight
+        factmilitary[year] = 2025
+    )
 )
+
 ```
 
-**⚠ Technical Challenges**
-Fragmented multi-source datasets
-Coalition logic without physical joins
-Numeric extraction from mixed formats
-Complex DAX optimization for slicers
-Real-time recalculation performance
+---
 
-Solutions:
-Star schema normalization
-SUMX/VALUES pattern innovation
-Regex data cleaning pipeline
-Measure optimization techniques
+** ⚠ Technical Challenges**
+---
 
-🔮 Future Enhancements
-Multi-year trend analysis
-Real-time API integration
-ML-powered threat prediction
-Mobile-responsive deployment
-Granular asset-type drilldowns
-Geospatial force mapping
+* Fragmented multi-source datasets
 
-🏁 Impact Summary: Strategic Defense Intelligence Platform proves mastery of:
+* Coalition logic without physical joins
+
+* Numeric extraction from mixed formats
+
+* Complex DAX optimization for slicers
+
+* Real-time recalculation performance
+
+**Solutions:**
+---
+
+* Star schema normalization
+
+* SUMX/VALUES pattern innovation
+
+* Regex data cleaning pipeline
+
+* Measure optimization techniques
+
+---
+
+🔮 **Future Enhancements**
+---
+
+* Multi-year trend analysis
+
+* Real-time API integration
+
+* ML-powered threat prediction
+
+* Mobile-responsive deployment
+
+* Granular asset-type drilldowns
+
+* Geospatial force mapping
+
+---
+
+
+🏁 **Impact Summary:** 
+---
+
+Strategic Defense Intelligence Platform proves mastery of:
+
 ✔ Complete BI pipeline engineering
+
 ✔ Advanced DAX coalition modeling
+
 ✔ Star schema optimization
+
 ✔ Real-time slicer intelligence
+
 ✔ Strategic visualization design
+
 ✔ End-to-end analytics solution
 
 From raw military data → instant coalition supremacy analysis.
 
+---
 
 👤 Author
+---
+
 PRIYANKA DUTTA
+
 Infosys Springboard Virtual Internship 6.0
+
 Data Visualization & Analytics Track
