@@ -1,4 +1,4 @@
-# Strategic Defense Intelligence Platform (2025)
+# Military Analytics Dashboard (2025)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black" />
