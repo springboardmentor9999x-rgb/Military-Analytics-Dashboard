@@ -38,7 +38,7 @@ This project provides:
 
 🔄 End-to-End Workflow
 
-# Web Scraping → Data Engineering → KPI Modeling → Interactive BI Dashboards
+#Web Scraping → Data Engineering → KPI Modeling → Interactive BI Dashboards
 
 1️⃣ Data Acquisition
 
