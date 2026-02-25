@@ -89,8 +89,11 @@ This project provides:
 📊 Dashboard Modules
 
 🔹 Quick Stats — Global overview of military strength
+
 🔹 Nation Overview — Detailed country profile
+
 🔹 Compare Powers — Side-by-side country comparison
+
 🔹 Coalition Builder — Multi-country strength evaluation
 
 🧰 Technology Stack
@@ -128,11 +131,7 @@ This project provides:
 -Professional Git workflow and project management
 
 👤 Author
+
 Pooja Sri
 
 Infosys Springboard 6.0 Intern
-
-⭐ If you found this project helpful, feel free to star the repository!
-
-
-
