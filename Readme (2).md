@@ -1,7 +1,5 @@
 # 🛡️ Unified Military Analytics & Comparison Dashboard
 
-# Web Scraping → Data Engineering → KPI Modeling → Interactive BI Dashboards
-
 🚀 Project Overview
 
 The Unified Military Analytics & Comparison Dashboard is an end-to-end data analytics solution that collects, processes, and analyzes global military capability data from publicly available sources, primarily GlobalFirepower.com.
@@ -9,6 +7,7 @@ The Unified Military Analytics & Comparison Dashboard is an end-to-end data anal
 This project demonstrates how raw, fragmented web data can be transformed into structured, decision-ready intelligence using modern data engineering and business intelligence techniques.
 
 The system integrates manpower, equipment, economic indicators, infrastructure, and geographic variables to provide a multidimensional view of national defense capabilities. Interactive dashboards enable global comparison, country deep-dive analysis, and coalition strength evaluation.
+
 🎯 Key Objectives
 
 -🌐 Acquire military data from multiple public web sources
@@ -38,6 +37,9 @@ This project provides:
 ✔ Data-driven insights for research and policy analysis
 
 🔄 End-to-End Workflow
+
+# Web Scraping → Data Engineering → KPI Modeling → Interactive BI Dashboards
+
 1️⃣ Data Acquisition
 
 -Collect country-wise military indicators via automated web scraping
@@ -102,14 +104,6 @@ This project provides:
 | Version Control | Git & GitHub              |
 
 
-📊 Sample Output
-
-| Country | Rank | Active Personnel | Reserve Manpower  | Equipment |
-| ------- | ---- | ---------------- | ---------         | --------- |
-| USA     | 1    | 1,390,000        | 850,000           | 5,000+    |
-| India   | 4    | 1,455,550        | 1,155,000         | 4,000+    |
-
-
 ⭐ Key Features
 
 ✨ Automated data extraction pipeline
@@ -134,8 +128,7 @@ This project provides:
 -Professional Git workflow and project management
 
 👤 Author
-
-Rutuja Ghodake
+Pooja Sri
 
 Infosys Springboard 6.0 Intern
 
