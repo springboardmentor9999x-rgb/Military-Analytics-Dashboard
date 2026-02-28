@@ -26,3 +26,7 @@ support analytics and dashboard development.
 ## How to Run
 1. Ensure Python is installed.
 2. Install required libraries:
+
+
+
+   ![image alt](https://github.com/springboardmentor9999x-rgb/Military-Analytics-Dashboard/blob/7be991937991bd1f2392b38ed5750e458e8068f8/Screenshot%202026-02-18%20145731.png) 
