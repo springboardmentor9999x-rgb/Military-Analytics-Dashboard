@@ -28,7 +28,7 @@ The system integrates manpower, equipment, economic indicators, infrastructure, 
 
 Global military information is scattered across sources and presented in raw numerical formats, making comparative analysis difficult.
 
-# This project provides:
+ This project provides:
 
 ✔ A centralized analytical dataset
 ✔ Normalized performance indicators
