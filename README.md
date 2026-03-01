@@ -1,6 +1,6 @@
 # 🛡️ Unified Military Analytics & Comparison Dashboard
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 The Unified Military Analytics & Comparison Dashboard is an end-to-end data analytics solution that collects, processes, and analyzes global military capability data from publicly available sources, primarily GlobalFirepower.com.
 
@@ -8,7 +8,7 @@ This project demonstrates how raw, fragmented web data can be transformed into s
 
 The system integrates manpower, equipment, economic indicators, infrastructure, and geographic variables to provide a multidimensional view of national defense capabilities. Interactive dashboards enable global comparison, country deep-dive analysis, and coalition strength evaluation.
 
-🎯 Key Objectives
+# 🎯 Key Objectives
 
 -🌐 Acquire military data from multiple public web sources
 
@@ -28,7 +28,7 @@ The system integrates manpower, equipment, economic indicators, infrastructure, 
 
 Global military information is scattered across sources and presented in raw numerical formats, making comparative analysis difficult.
 
-This project provides:
+# This project provides:
 
 ✔ A centralized analytical dataset
 ✔ Normalized performance indicators
@@ -36,7 +36,7 @@ This project provides:
 ✔ Strategic comparison across nations
 ✔ Data-driven insights for research and policy analysis
 
-🔄 End-to-End Workflow
+# 🔄 End-to-End Workflow
 
        Web Scraping → Data Engineering → KPI Modeling → Interactive BI Dashboards
 
@@ -86,7 +86,7 @@ This project provides:
 
 -Enable filtering, comparison, and scenario analysis
 
-📊 Dashboard Modules
+# 📊 Dashboard Modules
 
 🔹 Quick Stats — Global overview of military strength
 
@@ -96,7 +96,7 @@ This project provides:
 
 🔹 Coalition Builder — Multi-country strength evaluation
 
-🧰 Technology Stack
+# 🧰 Technology Stack
 | Category        | Tools / Technologies      |
 | --------------- | ------------------------- |
 | Programming     | Python                    |
@@ -107,7 +107,7 @@ This project provides:
 | Version Control | Git & GitHub              |
 
 
-⭐ Key Features
+# ⭐ Key Features
 
 ✨ Automated data extraction pipeline
 ✨ Large-scale data cleaning and integration
@@ -116,7 +116,7 @@ This project provides:
 ✨ Coalition scenario simulation
 ✨ Reproducible and scalable architecture
 
-📈 Key Learnings
+# 📈 Key Learnings
 
 -Real-world web scraping challenges and solutions
 
@@ -130,7 +130,7 @@ This project provides:
 
 -Professional Git workflow and project management
 
-👤 Author
+# 👤 Author
 
 Pooja Sri
 
