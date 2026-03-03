@@ -103,8 +103,8 @@ Global military information is scattered across sources and presented in raw num
 | Web Scraping    | Requests, BeautifulSoup   |
 | Data Processing | Pandas, NumPy             |
 | Analytics & BI  | Microsoft Power BI        |
-| Development     | VS Code, Jupyter Notebook |
-| Version Control | Git & GitHub              |
+| Development     |  Colab Notebook |
+| Version Control |  GitHub              |
 
 
 # ⭐ Key Features
