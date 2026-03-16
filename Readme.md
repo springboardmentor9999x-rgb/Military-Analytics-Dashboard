@@ -1,14 +1,14 @@
-🛡️ Unified Military Analytics & Comparison Dashboard
+# 🛡️ Unified Military Analytics & Comparison Dashboard
 
  Web Scraping | Analytics Project
 
-📌 Project Overview
+### 📌 Project Overview
 
 The Unified Military Analytics & Comparison Dashboard is a data-driven project designed to collect, process, and analyze global military information from GlobalFirepower.com.
 
 This project transforms raw, unstructured web data into a clean, structured dataset that can be used for analytics, visualization, and strategic comparison.
 
-🎯 Project Objectives
+### 🎯 Project Objectives
 
 📥 Collect military-related data from multiple web sources
 
@@ -20,7 +20,7 @@ This project transforms raw, unstructured web data into a clean, structured data
 
 ⚙️ Automate the entire data extraction process
 
-🧠 What This Project Covers
+### 🧠 What This Project Covers
 
 ✔ Country-wise military data
 ✔ Manpower & personnel strength
@@ -28,7 +28,7 @@ This project transforms raw, unstructured web data into a clean, structured data
 ✔ Structured CSV output for analytics
 ✔ Scalable data pipeline
 
-🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 
 | Tools / Technology| Purpose                       |
 | ----------------- | ------------------------------ |
@@ -39,7 +39,7 @@ This project transforms raw, unstructured web data into a clean, structured data
 | Git & GitHub      | Version control                |
 | VS Code           | Development environment        |
 
-🔄 Workflow Overview
+### 🔄 Workflow Overview
 
 1.Collect URLs
 
@@ -61,14 +61,14 @@ This project transforms raw, unstructured web data into a clean, structured data
 
   Save final data as a CSV file for analysis or visualization.
 
-📊 Sample Output (Preview)
+### 📊 Sample Output (Preview)
 
 | Country | Rank | Active Personnel | Reserve   | Equipment |
 | ------- | ---- | ---------------- | --------- | --------- |
 | India   | 4    | 1,455,550        | 1,155,000 | 4,000+    |
 | USA     | 1    | 1,390,000        | 850,000   | 5,000+    |
 
-🧠 Key Learnings
+### 🧠 Key Learnings
 
 -Web scraping with real-world HTML structures
 
@@ -80,7 +80,7 @@ This project transforms raw, unstructured web data into a clean, structured data
 
 -Understanding data pipelines from raw to structured
 
-👤 Author
+### 👤 Author
 
 Rutuja Ghodake
 
