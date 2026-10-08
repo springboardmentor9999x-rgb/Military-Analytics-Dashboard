@@ -83,6 +83,7 @@ This project transforms raw, unstructured web data into a clean, structured data
 ### 👤 Author
 
 Rutuja Ghodake
+Sugha Sri S G S
 
 ⭐ If you found this project helpful, feel free to star the repository!
 
